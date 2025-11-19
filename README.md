@@ -12,6 +12,6 @@ WARNING: запрещается запускать уже готовый image, 
 
 sudo docker compose up
 
-Видим Hello World!
+Видим Hello World!:
 
 <img width="1289" height="811" alt="{E73F6ED5-A701-4581-B5E8-968E7146F08F}" src="https://github.com/user-attachments/assets/f3e9c473-40eb-4aae-b568-4e01633c52a6" />
